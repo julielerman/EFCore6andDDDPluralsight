@@ -1,0 +1,11 @@
+{
+  "AdvanceAmountUSD": 1,
+  "HardCoverRoyaltyPct": 1,
+  "SoftCoverRoyaltyPct": 1,
+  "DigitalRoyaltyPct": 1,
+  "TranslationRoyaltyUSD": 1,
+  "PublicityProvided": true,
+  "AuthorAvailableForPR": true,
+  "PromoCopiesForAuthor": 1,
+  "PriceForAddlAuthorCopiesUSD": 10
+}
